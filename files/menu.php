@@ -1,14 +1,15 @@
-<nav class="navbar navbar-default fixed-top">
-    <div class="clearfix">
-        <div class="container">            
-            <h3>Pertemuan 01</h3>
+<nav class="navbar navbar-default fixed-top">           
+            <center>
+                <h3>
+                    <a href="http://127.0.0.1/pertemuan01/index.php?menu=login">Pertemuan 01</a>
+                </h3>
+            </center>
             <ul class="nav nav-tabs">                
-                <li class="active"><a href="#">Menu 1</a></li>
-                <li><a href="#">Menu 2</a></li>
-                <li><a href="#">Menu 3</a></li>
+                <li><a href="http://127.0.0.1/pertemuan01/index.php?menu=login">Login</a></li>
+                <li><a href="http://127.0.0.1/pertemuan01/index.php?menu=daftar">Daftar</a></li>
+                <li><a href="http://127.0.0.1/pertemuan01/index.php?menu=bantuan">Butuh Bantuan?</a></li>
             </ul>            
-        </div>
-    </div>
+        </div>    
 </nav>
 <br/>
-    <div class="clearfix"></div>
+<div class="clearfix"></div>
