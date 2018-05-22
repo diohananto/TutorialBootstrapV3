@@ -8,8 +8,7 @@
                 <li><a href="http://127.0.0.1/pertemuan01/index.php?menu=login">Login</a></li>
                 <li><a href="http://127.0.0.1/pertemuan01/index.php?menu=daftar">Daftar</a></li>
                 <li><a href="http://127.0.0.1/pertemuan01/index.php?menu=bantuan">Butuh Bantuan?</a></li>
-            </ul>            
-        </div>    
+            </ul>                  
 </nav>
 <br/>
 <div class="clearfix"></div>

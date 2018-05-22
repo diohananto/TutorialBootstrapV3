@@ -1,6 +1,11 @@
+<div class="jumbotron">
+  <h1>Pertemuan 01</h1>
+  <p>UKM Pemrogramann STIKOM Yos Sudarso</p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+</div>
+
 <?php error_reporting(0);
 $menu="$_GET[menu]";
-
 switch ($menu){
     case '':
         # tampilan pendaftaran user
