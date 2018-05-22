@@ -1,7 +1,7 @@
 <nav class="navbar navbar-default fixed-top">           
             <center>
                 <h3>
-                    <a href="http://127.0.0.1/pertemuan01/index.php?menu=login">Pertemuan 01</a>
+                    <a href="http://127.0.0.1/pertemuan01/index.php">Pertemuan 01</a>
                 </h3>
             </center>
             <ul class="nav nav-tabs">                
